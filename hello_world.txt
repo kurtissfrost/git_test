@@ -1,0 +1,3 @@
+Hello world,
+
+Following along with the Odin Project lesons
